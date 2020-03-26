@@ -1,0 +1,9 @@
+[URL]
+linkLyrics : ./lyrics/ ;
+linkMusics : ./musics/ ;
+linkRecord : ./records/ ;
+[/URL]
+[WINDOW]
+width : 600 ;
+height : 600 ;
+[/WINDOW]
